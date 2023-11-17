@@ -2,8 +2,8 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
  <br><br>
   <samp>
-    Hi there, I'm Kerem :wave:<br>
-<a href="https://discord.com/users/110005072124981248"><img  width="400px" src="https://lanyard.kyrie25.me/api/110005072124981248?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness"></a>
+   :wave:<br>
+<a href="https://discord.com/users/110005072124981248"><img  width="400px" src="https://lanyard.kyrie25.me/api/110005072124981248?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=a32565&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness"></a>
   </samp>
 </p>
 
